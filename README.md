@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ali Olalekan  
+# 👋 Hi, I'm Ali Olalekan  
 
 🚀 Backend Developer | 🛠 Node.js, Express & Databases | 📊 Aspiring Data Engineer  
 
@@ -27,7 +27,7 @@ Currently, I’m deep-diving into **Node.js, Express, MongoDB, and PostgreSQL**,
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=olalekanali&show_icons=true&include_all_commits=true&hide_border=true" alt="Ali's GitHub stats" /> -->
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=olalekanali&show_icons=true&include_all_commits=true&hide_border=true" alt="Ali's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olalekanali&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=olalekanali&hide_border=true" alt="GitHub Streak" />
 </div>  
