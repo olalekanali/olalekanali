@@ -1,23 +1,39 @@
-# Hello there; welcome 👋🏾
+# 👋 Hi there, I'm Ali Olalekan  
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Linkedin Badge](https://img.shields.io/badge/-ali_olakekan-000000?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olalekanali)](https://www.linkedin.com/in/olalekanali) [![Twitter Badge](https://img.shields.io/badge/-@olalekan_ali-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/olalekan_ali)](https://twitter.com/olalekan_ali) [![WhatsApp Badge](https://img.shields.io/badge/-aliolalekan-000000?style=for-the-badge&logo=twitter&logoColor=white&link=https://wa.me/2349059271513)](https://wa.me/2349059271513)
+🚀 Backend Developer | 🛠 Node.js, Express & Databases | 📊 Aspiring Data Engineer  
 
-I’m **Ali Olalekan ALIYU**, a Junior **Backend Developer** who loves building efficient, secure, and scalable systems. I enjoy turning ideas into real-world applications through clean code and thoughtful design.
-
-**Here's a quick summary about me**:
-
-* 🌱 Currently learning and building with **Node.js, Express, and MongoDB**
-* ⚙️ Experienced with **Git/GitHub, REST APIs, and database design**
-* 🛠 Exploring **Data Science & Machine Learning** to broaden my problem-solving toolkit
-* 📦 Building projects like **Cache Wallet (a digital wallet backend)** and **Hype Pass (a modern event ticketing system)**
-* 💡 I believe in **writing code that makes life easier** and continuously improving my craft
-
-💻 When I’m not coding, I’m probably reading tech articles, experimenting with new tools, or brainstorming project ideas.
-
-
-⚡ *Always open to collaborating on interesting projects, backend systems, and open-source contributions!*
+I love building scalable backend systems, working with APIs, and solving real-world problems using technology.  
+Currently, I’m deep-diving into **Node.js, Express, MongoDB, and PostgreSQL**, while exploring **Data Engineering** and **AI Ethics**.  
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=olalekanali&show_icons=true&include_all_commits=true&hide_border=true" alt="Ali's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olalekanali&langs_count=8&layout=compact&hide_border=true" alt="Ali's GitHub stats" /> |
-| ------------- | ------------- |
+## 🌍 Connect with me  
+
+[![Twitter Badge](https://img.shields.io/badge/-olalekanali-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/olalekanali)](https://twitter.com/olalekanali)  [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Olalekan-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/olalekanali)](https://linkedin.com/in/olalekanali)  [![WhatsApp Badge](https://img.shields.io/badge/-aliolalekan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/2349059271513)](https://wa.me/2349059271513)  
+
+---
+
+## 🛠 Tech Stack  
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=olalekanali&show_icons=true&include_all_commits=true&hide_border=true" alt="Ali's GitHub stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olalekanali&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olalekanali&hide_border=true" alt="GitHub Streak" />
+</div>  
+
+---
+
+## ⚡ Fun fact  
+
+When I’m not coding, I’m reading about **AI ethics**, experimenting with new tools, or brainstorming the next **project idea**.  
