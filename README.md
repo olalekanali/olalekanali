@@ -26,11 +26,8 @@ Currently, I’m deep-diving into **Node.js, Express, MongoDB, and PostgreSQL**,
 
 ## 📈 GitHub Stats  
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=olalekanali&show_icons=true&include_all_commits=true&hide_border=true" alt="Ali's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olalekanali&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olalekanali&hide_border=true" alt="GitHub Streak" />
-</div>  
+| <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=olalekanali&show_icons=true&include_all_commits=true&hide_border=true" alt="Ali's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=olalekanali&hide_border=true" alt="GitHub Streak" />
 
 ---
 
