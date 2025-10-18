@@ -9,7 +9,7 @@ Currently, I’m deep-diving into **Node.js, Express, MongoDB, and PostgreSQL**,
 
 ## 🌍 Connect with me  
 
-[![Twitter Badge](https://img.shields.io/badge/-olalekanali-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/olalekanali)](https://twitter.com/olalekanali)  [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Olalekan-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/olalekanali)](https://linkedin.com/in/olalekanali)  [![WhatsApp Badge](https://img.shields.io/badge/-aliolalekan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/2349059271513)](https://wa.me/2349059271513)  
+[![Twitter Badge](https://img.shields.io/badge/-olalekanali-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/olalekanali)](https://twitter.com/olalekan_ali)  [![Linkedin Badge](https://img.shields.io/badge/-Ali%20Olalekan-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/olalekanali)](https://linkedin.com/in/olalekanali)  [![WhatsApp Badge](https://img.shields.io/badge/-aliolalekan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/2349059271513)](https://wa.me/2349059271513)  
 
 ---
 
@@ -27,7 +27,6 @@ Currently, I’m deep-diving into **Node.js, Express, MongoDB, and PostgreSQL**,
 ## 📈 GitHub Stats  
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=olalekanali&show_icons=true&include_all_commits=true&hide_border=true" alt="Ali's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=olalekanali&hide_border=true" alt="GitHub Streak" />
 
 ---
 
